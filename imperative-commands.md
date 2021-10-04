@@ -14,6 +14,10 @@ kubectl get deployments
 kubectl get services
 ```
 
+```sh
+kubectl get certificates
+```
+
 ### Create a secret
 
 ```sh
